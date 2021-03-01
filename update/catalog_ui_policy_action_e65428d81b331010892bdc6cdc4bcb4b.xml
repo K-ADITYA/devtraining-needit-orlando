@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="reset password">a034019a1b231010892bdc6cdc4bcb9a</catalog_item>
+        <catalog_variable>IO:722220981b331010892bdc6cdc4bcb7d</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>aditya.k</sys_created_by>
+        <sys_created_on>2020-10-07 14:23:05</sys_created_on>
+        <sys_id>e65428d81b331010892bdc6cdc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dual_sim</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_e65428d81b331010892bdc6cdc4bcb4b</sys_update_name>
+        <sys_updated_by>aditya.k</sys_updated_by>
+        <sys_updated_on>2020-10-07 14:23:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="test">64a264981b331010892bdc6cdc4bcbdc</ui_policy>
+        <variable>dual_sim</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
